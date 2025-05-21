@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "MVI_APITest"
 include(":app")
+include(":api")
